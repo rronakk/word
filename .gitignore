@@ -1,0 +1,5 @@
+.idea
+
+# Mac OS files
+.DS_Store
+**.pyc
